@@ -1,0 +1,7 @@
+"# Ignore node_modules directory" 
+""   # Add a newline
+"# Ignore build files" 
+"/build" 
+""   # Add a newline
+"# Ignore environment files" 
+".env" 
